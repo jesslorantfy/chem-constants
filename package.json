@@ -1,0 +1,15 @@
+{
+  "name": "chem-constants",
+  "version": "1.0.0",
+  "description": "A collection of useful chemistry constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chemistry",
+    "chem"
+  ],
+  "author": "Jess Lorantfy",
+  "license": "MIT"
+}
